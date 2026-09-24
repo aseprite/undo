@@ -22,4 +22,4 @@ namespace undo {
 
 } // namespace undo
 
-#endif  // UNDO_COMMAND_H_INCLUDED
+#endif

@@ -27,4 +27,4 @@ private:
   int m_undo_value;
 };
 
-#endif  // CMD_H_INCLUDED
+#endif

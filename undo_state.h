@@ -51,4 +51,4 @@ namespace undo {
 
 } // namespace undo
 
-#endif  // STATE_H_INCLUDED
+#endif

@@ -66,4 +66,4 @@ namespace undo {
 
 } // namespace undo
 
-#endif  // HISTORY_H_INCLUDED
+#endif
